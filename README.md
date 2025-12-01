@@ -38,7 +38,7 @@ home.html
 
 <map name="image-map">
     <area target="" alt="coakers" title="coakers" href="coakers.html" coords="759,353,832,422" shape="rect">
-    <area target="" alt="silver falls" title="silver falls" href="silver.html" coords="940,259,28" shape="circle">
+    <area target="" alt="pine forest" title="pine.html" href="pine.html" coords="940,259,28" shape="circle">
     <area target="" alt="liril falls" title="liril falls" href="liril.html" coords="541,452,631,449,539,511,628,522,641,493,534,479,630,467,540,481,540,489,540,503,630,477,560,464,546,469" shape="poly">
 </map> 
 </body>
