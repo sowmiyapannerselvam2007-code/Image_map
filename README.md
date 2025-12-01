@@ -84,7 +84,7 @@ coakers.html
 </html>
 ```
 # OUTPUT
-![alt text](<reni/reni/screenshot 2025-12-01.jpg>)
+![alt text](/screenshot 2025-12-01.jpg>)
 ![alt text](coakers.png-1.jpg)
 ![alt text](pine.png.jpg)
 ![alt text](liril.png.jpg)
